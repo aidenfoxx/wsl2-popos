@@ -1,4 +1,4 @@
 ext4.vhdx
 
-sources
-sources/.gitkeep
+sources/*
+!sources/.gitkeep
