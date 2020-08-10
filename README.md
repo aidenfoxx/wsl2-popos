@@ -1,4 +1,4 @@
-# Pop!_OS WSL2 Instance
+# PopOS WSL2 Instance
 
 A pre-configured gnome desktop environment using xserver and pulseaudio passthrough.
 
