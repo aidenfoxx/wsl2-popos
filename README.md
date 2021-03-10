@@ -1,4 +1,4 @@
-# PopOS WSL2 Instance
+# PopOS 20.04 WSL2 Instance
 
 A pre-configured gnome desktop environment using xserver and pulseaudio passthrough.
 
