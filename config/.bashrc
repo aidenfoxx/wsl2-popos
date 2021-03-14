@@ -7,5 +7,8 @@ if [ -z "$(pidof gnome-shell)" ]; then
   export LIBGL_ALWAYS_INDIRECT=1
   export PULSE_SERVER=tcp:$GATEWAY
 
-  genie -c gnome-session
+  genie -i
+  genie -s
+
+  gnome-session
 fi
