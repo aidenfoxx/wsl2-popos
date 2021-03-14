@@ -4,6 +4,8 @@ A pre-configured gnome desktop environment using xserver and pulseaudio passthro
 
 ![Desktop Preview](images/preview.jpg)
 
+A fork of this project supporting PopOS 20.10 can be found [here](https://github.com/milesbuckton/wsl2-popos).
+
 ## Installation
 
 Ensure you have WSL2 and VcXsrv installed.
