@@ -4,6 +4,8 @@ A pre-configured GNOME desktop environment using VcXsrv Windows X Server and Pul
 
 ![Desktop Preview](images/preview.jpg)
 
+A fork of this project supporting PopOS 20.10 can be found [here](https://github.com/milesbuckton/wsl2-popos).
+
 ## Installation
 
 Ensure you have WSL2 and VcXsrv Windows X Server installed.
