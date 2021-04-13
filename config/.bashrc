@@ -4,8 +4,11 @@ if [ -z "$(pidof gnome-shell)" ]; then
 
   export DISPLAY=$GATEWAY:0
   export XDG_SESSION_TYPE=x11
-  export LIBGL_ALWAYS_INDIRECT=1
+  export LIBGL_ALWAYS_INDIRECT=0
   export PULSE_SERVER=tcp:$GATEWAY
 
-  genie -c gnome-session
+  genie -i
+  genie -s
+
+  gnome-session
 fi
